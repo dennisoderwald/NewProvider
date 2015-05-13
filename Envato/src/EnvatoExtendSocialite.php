@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\Envato;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
